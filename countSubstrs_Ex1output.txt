@@ -1,0 +1,28 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+countSubstrs(str, 0, 2, 3)
+countSubstrs(str, 1, 2, 2)
+countSubstrs(str, 2, 2, 1)
+return: 1
+countSubstrs(str, 1, 1, 1)
+return: 1
+countSubstrs(str, 2, 1, 0)
+return: 0
+return: 2
+countSubstrs(str, 0, 1, 2)
+countSubstrs(str, 1, 1, 1)
+return: 1
+countSubstrs(str, 0, 0, 1)
+return: 1
+countSubstrs(str, 1, 0, 0)
+return: 0
+return: 2
+countSubstrs(str, 1, 1, 1)
+return: 1
+return: 3
